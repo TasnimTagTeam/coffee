@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coffee-p5m.pages.dev/sitemap.xml
